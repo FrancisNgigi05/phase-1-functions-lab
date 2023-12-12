@@ -1,5 +1,4 @@
 // Code your solution in this file!
-let numberOfBlocks = distanceFromHqInBlocks(50);
 let result;
 let feet;
 let remainingFeet;
